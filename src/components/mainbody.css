@@ -1,0 +1,140 @@
+.mainbody {
+    width: 60vw;
+    min-height: 100%;
+    background-color: rgb(216, 242, 249);
+    border-radius: 40px;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 20px;
+}
+.mainbody .header{
+    display: flex;
+    justify-content: space-between;
+}
+.mainbody .header1{
+    /* border: 2px solid red; */
+    height: 100px;
+    margin: 30px;
+    font-size: 13px;
+}
+.mainbody .header1 p{
+    /* border: 2px solid red; */
+    margin: 2px;
+}
+.mainbody .header1 p:first-child{
+    font-weight: 600;
+}
+.mainbody .header2{
+    display: flex;
+    margin: 30px;
+}
+.mainbody .header2 img{
+    height: 50px;
+    width: 40px;
+    border-radius: 30%;
+    margin-left: 20px;
+}
+
+.mainbody .cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    position: relative;
+    bottom: 0;
+}
+.card{
+    width: 220px;
+    background-color: aliceblue;
+    display: flex;
+    min-height:170px;
+    flex-direction: column;
+    align-items: center;
+    /* border: 2px solid red; */
+    border-radius: 25px;
+    margin: 20px 20px;
+}
+.card .header{
+    display: flex;
+    justify-content: space-between;
+    /* border: 2px solid red; */
+    width: 80%;
+    border-radius: 40px;
+}
+
+.card1 .gbn{
+    display: flex;
+    /* border: 2px solid red; */
+    width: 100%;
+    justify-content: space-around;
+}
+.skill-box {
+    width: 25%;
+    margin: 25px 0;
+    /* border: 2px solid red; */
+}
+
+.card .title {
+    display: block;
+    font-size: 14px;
+    font-weight: 600;
+    color: #b1b0b0;
+}
+
+ .skill-bar {
+    height: 10px;
+    width: 100%;
+    border-radius: 6px;
+    margin-top: 6px;
+    /* color:rgb(74, 74, 74); */
+    background: rgba(0, 0, 0, 0.1);
+}
+
+.skill-per {
+    position: relative;
+    display: block;
+    height: 100%;
+    width: 90%;
+    border-radius: 6px;
+    background: #4070f4;
+    /* animation: progress 0.4s ease-in-out forwards;
+    opacity: 0; */
+}
+
+.skill-per.good {
+    width: 100%;
+    /* animation-delay: 0.1s; */
+}
+
+.skill-per.normal {
+    width: 100%;
+    /* animation-delay: 0.2s; */
+}
+
+.skill-per.bad {
+    width: 35%;
+    /* animation-delay: 0.3s; */
+}
+.preci{
+    display: flex;
+    width: 90%;
+    /* border: 2px solid red; */
+}
+
+.skill-box1 {
+    width: 10%;
+    margin: 25px 3px;
+}
+
+.skill-box2 {
+    width: 20%;
+    margin: 10px 3px;
+}
+.skill-box3{
+    /* border: 2px solid red; */
+    width: 90%;
+}
+
+.skill-box4 {
+    /* border: 2px solid red; */
+    width: 100%;
+}
