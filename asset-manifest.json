@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/SENAI_intern_assignment/static/css/main.b321005d.css",
-    "main.js": "/SENAI_intern_assignment/static/js/main.60f0f6ac.js",
-    "static/media/bg.jpg": "/SENAI_intern_assignment/static/media/bg.b94d0583f7095720e624.jpg",
-    "index.html": "/SENAI_intern_assignment/index.html",
-    "main.b321005d.css.map": "/SENAI_intern_assignment/static/css/main.b321005d.css.map",
-    "main.60f0f6ac.js.map": "/SENAI_intern_assignment/static/js/main.60f0f6ac.js.map"
+    "main.css": "/assignment_SENAI/static/css/main.def5d54f.css",
+    "main.js": "/assignment_SENAI/static/js/main.60f0f6ac.js",
+    "static/media/bg.jpg": "/assignment_SENAI/static/media/bg.b94d0583f7095720e624.jpg",
+    "index.html": "/assignment_SENAI/index.html",
+    "main.def5d54f.css.map": "/assignment_SENAI/static/css/main.def5d54f.css.map",
+    "main.60f0f6ac.js.map": "/assignment_SENAI/static/js/main.60f0f6ac.js.map"
   },
   "entrypoints": [
-    "static/css/main.b321005d.css",
+    "static/css/main.def5d54f.css",
     "static/js/main.60f0f6ac.js"
   ]
 }
